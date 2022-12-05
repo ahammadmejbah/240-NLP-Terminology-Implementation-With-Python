@@ -162,11 +162,60 @@
 N	N | n-gram | nominal | non-terminal | noun | noun modifier | noun phrase | NP | number (grammatical)
 O	object | ordinal | output probability
 P	parse tree | parser | part of speech | part-of-speech tagging | participle | particle | passive voice | past | past perfect | patient | person | phone | phoneme | phonetics | phonology | phrasal category | phrasal verb | phrase | pluperfect | plur | plural noun | POS | possessive | PP | PP attachment | pragmatics | pre-terminal | predicate | predicate operator | predictive parser | PREP | preposition | prepositional phrase | pres | prescriptive grammar | present perfect | production | progressive | proper noun | proposition
-Q	qualifier | quantifier | quantifying determiner |
-R	reference | referential ambiguity | regular | relative clause | rewriting process | right-linear grammar | right-to-left parsing | robustness
-S	S | second person | semantic grammar | semantics | sentence | sentential form | shift-reduce parser | simple future | simple past | simple present | singular noun | Skolem functions and constants | skolemization | speech act | start symbol | statistical NLP | string | structural ambiguity | subcat | subcategorization | subject | subjunctive | substitutivity | surface speech act | syntax | systemic grammar
-T	tagged corpus | tense | term | terminal | the | thematic role | theme | third person | top-down parser | transitive | trigram
-U	unrestricted grammar
+
+<li>Qualifier </li>
+<li>Quantifier </li>
+<li>Quantifying determiner  </li>
+  
+  
+
+<li>Reference </li>
+<li>Referential ambiguity </li>
+<li>Regular </li>
+<li>Relative clause </li>
+<li>Rewriting process </li>
+<li>Right-linear grammar </li>
+<li>Right-to-left parsing </li>
+<li>Robustness</li>
+  
+<li>Second person </li>
+<li>Semantic grammar </li>
+<li>Semantics </li>
+<li>Sentence </li>
+<li>Sentential form </li>
+<li>Shift-reduce parser </li>
+<li>Simple future </li>
+<li>Simple past </li>
+<li>Simple present </li>
+<li>Singular noun </li>
+<li>Skolem functions and constants </li>
+<li>Skolemization </li>
+<li>Speech act </li>
+<li>Start symbol </li>
+<li>Statistical NLP </li>
+<li>String </li>
+<li>Structural ambiguity </li>
+<li>Subcat </li>
+<li>Subcategorization </li>
+<li>Subject </li>
+<li>Subjunctive </li>
+<li>Substitutivity </li>
+<li>Surface speech act </li>
+<li>Syntax </li>
+<li>Systemic grammar</li>
+
+<li>tagged corpus </li>
+<li>tense </li>
+<li>term </li>
+<li>terminal </li>
+<li>the </li>
+<li>thematic role </li>
+<li>theme </li>
+<li>third person </li>
+<li>top-down parser </li>
+<li>transitive </li>
+<li>trigram</li>
+<li>unrestricted grammar</li>
 
 <li>Var feature </li>
 <li>Verb </li>

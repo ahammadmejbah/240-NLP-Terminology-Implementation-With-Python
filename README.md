@@ -260,6 +260,7 @@
 <li>transitive </li>
 <li>trigram</li>
 <li>unrestricted grammar</li>
+<li> Unigram </li>
 
 <li>Var feature </li>
 <li>Verb </li>

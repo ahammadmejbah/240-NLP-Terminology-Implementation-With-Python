@@ -155,13 +155,61 @@
 <li>Morphology </li>
 <li>Most1</li>
  
-  
-  
-  
-  
-N	N | n-gram | nominal | non-terminal | noun | noun modifier | noun phrase | NP | number (grammatical)
-O	object | ordinal | output probability
-P	parse tree | parser | part of speech | part-of-speech tagging | participle | particle | passive voice | past | past perfect | patient | person | phone | phoneme | phonetics | phonology | phrasal category | phrasal verb | phrase | pluperfect | plur | plural noun | POS | possessive | PP | PP attachment | pragmatics | pre-terminal | predicate | predicate operator | predictive parser | PREP | preposition | prepositional phrase | pres | prescriptive grammar | present perfect | production | progressive | proper noun | proposition
+
+<li>N-gram </li>
+<li>Nominal</li>
+<li>Non-terminal </li>
+<li>Noun </li>
+<li>Noun modifier </li>
+<li>Noun phrase </li>
+<li>NP </li>
+<li>Number (grammatical)</li>
+
+</li>object </li>
+</li>ordinal </li>
+</li>output probability</li>
+
+<li>Parse tree </li>
+<li>Parser </li>
+<li>Part of speech </li>
+<li>Part-of-speech tagging </li>
+<li>Participle </li>
+<li>Particle </li>
+<li>Passive voice </li>
+<li>Past </li>
+<li>Past perfect </li>
+<li>Patient </li>
+<li>Person </li>
+<li>Phone</li>
+<li>Phoneme </li>
+<li>Phonetics </li>
+<li>Phonology </li>
+<li>Phrasal category </li>
+<li>Phrasal verb </li>
+<li>Phrase </li>
+<li>Pluperfect </li>
+<li>Plur </li>
+<li>Plural noun </li>
+<li>POS </li>
+<li>Possessive </li>
+<li>PP </li>
+<li>PP attachment </li>
+<li>Pragmatics </li>
+<li>Pre-terminal </li>
+<li>Predicate </li>
+<li>Predicat</li>
+<li>Pperator </li>
+<li>Predictive parser </li>
+<li>PREP </li>
+<li>Preposition </li>
+<li>Prepositional phrase </li>
+<li>Pres </li>
+<li>Prescriptive grammar </li>
+<li>Present perfect </li>
+<li>Production </li>
+<li>Progressive </li>
+<li>Proper noun </li>
+<li>Proposition</li>
 
 <li>Qualifier </li>
 <li>Quantifier </li>

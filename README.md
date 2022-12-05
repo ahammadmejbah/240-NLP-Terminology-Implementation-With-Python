@@ -30,47 +30,47 @@
 <li>AUX</li> 
 <li>Auxiliary verb</li>
 
-<li>Bayes' rule <li>
-<li>Believe <li>
-<li>Bigram <li>
-<li>Bottom-up parser <li>
-<li>Bound morpheme<li>
+<li>Bayes' rule </li>
+<li>Believe </li>
+<li>Bigram </li>
+<li>Bottom-up parser </li>
+<li>Bound morpheme</li>
 <li>cardinal </li>
-<li>Case <li>
-<li>Cataphor <li>
-<li>CFG <li>
-<li>Chart <li>
-<li>Chart parsing <li>
-<li>Chomsky hierarchy <li>
-<li>CNP <li>
-<li>Co-agent <li>
-<li>Co-refer <li>
-<li>Common noun <li>
-<li>Common noun phrase <li>
-<li>Complement <li>
-<li>Compositional semantics <li>
-<li>Concrete noun <li>
-<li>Conditional probability <li>
-<li>CONJ <li>
-<li>Conjunction <li>
-<li>Constituent <li>
-<li>Context-free <li>
-<li>Context-sensitive <li>
-<li>Corpus <li>
-<li>Count noun <li>
-<li>CSG<li>
+<li>Case </li>
+<li>Cataphor </li>
+<li>CFG </li>
+<li>Chart </li>
+<li>Chart parsing </li>
+<li>Chomsky hierarchy </li>
+<li>CNP </li>
+<li>Co-agent </li>
+<li>Co-refer </li>
+<li>Common noun </li>
+<li>Common noun phrase </li>
+<li>Complement </li>
+<li>Compositional semantics </li>
+<li>Concrete noun </li>
+<li>Conditional probability </li>
+<li>CONJ </li>
+<li>Conjunction </li>
+<li>Constituent </li>
+<li>Context-free </li>
+<li>Context-sensitive </li>
+<li>Corpus </li>
+<li>Count noun </li>
+<li>CSG</li>
 
-<li>DE <li>
-<li>DE list <li>
-<li>Declarative <li>
-<li>Demonstrative <li>
-<li>Derivation <li>
-<li>Descriptive grammar <li>
-<li>Determiner <li>
-<li>Discourse entity <li>
-<li>Discourse entity list <li>
-<li>Distinguished non-terminal <li>
-<li>Ditransitive<li>
+<li>DE </li>
+<li>DE list </li>
+<li>Declarative </li>
+<li>Demonstrative </li>
+<li>Derivation </li>
+<li>Descriptive grammar </li>
+<li>Determiner </li>
+<li>Discourse entity </li>
+<li>Discourse entity list </li>
+<li>Distinguished non-terminal </li>
+<li>Ditransitive</li>
 </ol>
 
 

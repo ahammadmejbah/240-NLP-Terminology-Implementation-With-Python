@@ -179,7 +179,6 @@
 <li>Past </li>
 <li>Past perfect </li>
 <li>Patient </li>
-<li>Person </li>
 <li>Phone</li>
 <li>Phoneme </li>
 <li>Phonetics </li>
@@ -256,10 +255,7 @@
 <li>tense </li>
 <li>term </li>
 <li>terminal </li>
-<li>the </li>
 <li>thematic role </li>
-<li>theme </li>
-<li>third person </li>
 <li>top-down parser </li>
 <li>transitive </li>
 <li>trigram</li>

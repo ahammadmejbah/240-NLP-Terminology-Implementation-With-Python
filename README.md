@@ -29,13 +29,53 @@
 <li>Augmented transition networks</li> 
 <li>AUX</li> 
 <li>Auxiliary verb</li>
+
+<li>Bayes' rule <li>
+<li>Believe <li>
+<li>Bigram <li>
+<li>Bottom-up parser <li>
+<li>Bound morpheme<li>
+<li>cardinal </li>
+<li>Case <li>
+<li>Cataphor <li>
+<li>CFG <li>
+<li>Chart <li>
+<li>Chart parsing <li>
+<li>Chomsky hierarchy <li>
+<li>CNP <li>
+<li>Co-agent <li>
+<li>Co-refer <li>
+<li>Common noun <li>
+<li>Common noun phrase <li>
+<li>Complement <li>
+<li>Compositional semantics <li>
+<li>Concrete noun <li>
+<li>Conditional probability <li>
+<li>CONJ <li>
+<li>Conjunction <li>
+<li>Constituent <li>
+<li>Context-free <li>
+<li>Context-sensitive <li>
+<li>Corpus <li>
+<li>Count noun <li>
+<li>CSG<li>
+
+<li>DE <li>
+<li>DE list <li>
+<li>Declarative <li>
+<li>Demonstrative <li>
+<li>Derivation <li>
+<li>Descriptive grammar <li>
+<li>Determiner <li>
+<li>Discourse entity <li>
+<li>Discourse entity list <li>
+<li>Distinguished non-terminal <li>
+<li>Ditransitive<li>
 </ol>
 
 
 
-B	Bayes' rule | believe | bigram | bottom-up parser | bound morpheme
-C	cardinal | case | cataphor | CFG | chart | chart parsing | Chomsky hierarchy | CNP | co-agent | co-refer | common noun | common noun phrase | complement | compositional semantics | concrete noun | conditional probability | CONJ | conjunction | constituent | context-free | context-sensitive | corpus | count noun | CSG
-D	DE | DE list | declarative | demonstrative | derivation | descriptive grammar | determiner | discourse entity | discourse entity list | distinguished non-terminal | ditransitive
+
 E	ellipsis, elliptical | embedded sentence | evoke | exists | experiencer
 F	failure of substitutivity | features in NLP | first person | FOPC | forall | free morpheme | fut | future perfect
 G	gender | generalized phrase structure grammar | generate | GPSG | grammar | grammar rule

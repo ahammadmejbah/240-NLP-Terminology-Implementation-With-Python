@@ -165,9 +165,9 @@
 <li>NP </li>
 <li>Number (grammatical)</li>
 
-</li>object </li>
-</li>ordinal </li>
-</li>output probability</li>
+<li>Object </li>
+<li>Ordinal </li>
+<li>Output probability</li>
 
 <li>Parse tree </li>
 <li>Parser </li>
